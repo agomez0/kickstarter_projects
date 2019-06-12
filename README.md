@@ -44,6 +44,6 @@ Excel
     * Found the percentage of projects which were successful, failed, or were canceled per goal range
 
 
-LINK TO CONCLUSIONS FROM THE KICKSTARTER DATA: [Conclusions](Conclusions.txt)
+## LINK TO CONCLUSIONS FROM THE KICKSTARTER DATA: [Conclusions](Conclusions.txt)
 
 
