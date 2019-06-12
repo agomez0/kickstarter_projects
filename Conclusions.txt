@@ -1,0 +1,16 @@
+Conclusions about Kickstarter campaigns:
+    One conclusion we can make about Kickstarter campaigns given the data is that the best month to launch a campaign is May. May had the highest count of successful campaigns launched and the fourth lowest amount in failed campaigns. 
+    Another conclusion we can make is that a music category campaign is the best campaign to create, considering it had a high number of successful campaigns and a low number of failed campaigns. 
+    The music category had the second highest count in successful campaigns and the second lowest count for failed campaigns. 
+    The theater category had the largest count in successful campaigns, but it also had the highest count for failed campaigns. 
+    We can also conclude that not many campaigns were cancelled, and the amount that were cancelled remained constant throughout different months.
+
+
+Limitations of this dataset:
+    A limitation of this dataset is that for the year 2017, there was only data collected for the first three months. 
+    There is no data on the following nine months.
+
+
+Other possible tables/graphs that we could create:
+    A possible table that we can create is a table counting the amount of campaigns based on the number of days between the launch date of the campaigns and the deadline as rows, and the campaigns’ number and percentages of failures/successes/cancellations as columns. 
+    From this, we can create a linear chart to analyze the relationship of the amount of days that the campaign had before the deadline and its state.
